@@ -1,0 +1,14 @@
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
+
+
+Update - Lentelė Customers: 
+1) Update Customers Set Country = "Meksika" where Country = "Mexico"  (Rows affected: 5).
+
+Update - Lentelė Products: 
+2) Update Products Set ProductName = "Brangu" where Price > 40 (Rows affected: 12).
+ 
+Delete - Lentelė Customers:
+1) Insert INTO Customers (CustomerName, ContactName, Address,City, Country) Values ("Germantas", "Ger 2", "Druskininkų g.4", "Druskininkai","Lietuva") (Rows affected: 1).
+2) SELECT * FROM Customers where CustomerName = "Germantas"
+3) Delete from Customers where CustomerName = "Germantas" (Rows affected: 1).
+4) SELECT * FROM Customers where CustomerName = "Germantas" (No result).

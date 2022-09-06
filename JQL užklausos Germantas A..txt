@@ -1,0 +1,6 @@
+1)project = VCS AND priority = Highest
+2)project = VCS AND reporter != 6272e43a2db3080070252f3f
+3)project = VCS AND labels != sticky_notes AND reporter != 6272e43a2db3080070252f3f
+4)project = VCS AND reporter = 6272e43a2db3080070252f3f
+5)project = VCS AND created <= 2022-05-11
+6)project = VCS AND priority != Lowest

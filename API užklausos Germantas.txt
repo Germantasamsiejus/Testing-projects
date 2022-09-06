@@ -1,0 +1,25 @@
+Namų darbas Nr1 : https://www.tax.lt/skaiciuokles/atlyginimo_ir_mokesciu_skaiciuokle
+
+1) https://www.tax.lt/skaiciuokles/skaiciuoti_atlyginima?utf8=%E2%9C%93&authenticity_token=i4PJLY1qsdl1hKdafJwTw08ct%2B%2BF2DxFXGt77jk0RoK%2BzCjiaHcN31H4xOdUY%2FosH9gAIThlFfvrUN4T7UJTpQ%3D%3D&random_token=ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4&mokestiniai_metai=2021&koks_atl=1&atlyginimas=1500&paskaiciuoti_npd=1&vaikai=0&kaip=1&taikomas_npd=0&papildomas_pensijos_kaupimas=1&papildomas_pensijos_kaupimas_procentai=0.03
+
+2) https://www.tax.lt/skaiciuokles/skaiciuoti_atlyginima?utf8=%E2%9C%93&authenticity_token=w0MRhLPR5FuZPGgZ2uEeRQceRi2mPtpQpuV1yrQKBnD2DPBLVsxYXb1AC6TyHveqV9rx4xuD8%2B4R3tA3YHwTVw%3D%3D&random_token=ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4&mokestiniai_metai=2020&koks_atl=1&atlyginimas=1200&paskaiciuoti_npd=2&vaikai=0&kaip=1&taikomas_npd=400
+
+Namų darbas Nr2 : https://api.meteo.lt/
+
+1)https://api.meteo.lt/v1/places/
+2)https://api.meteo.lt/v1/places/druskininkai
+3)https://api.meteo.lt/v1/places/druskininkai/forecasts
+4)https://api.meteo.lt/v1/places/druskininkai/forecasts/long-term
+
+
+
+
+
+
+
+
+
+
+
+
+

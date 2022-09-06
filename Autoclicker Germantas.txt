@@ -1,0 +1,18 @@
+1) Navigating to https://sourceforge.net/projects/orphamielautoclicker/
+2) downloading AutoClicker program.
+3) No instalation required, program runs immediately.
+4) Program is simply deleted without uninstalation.
+5) Testing "Click intervals".
+6) Testing "Click options".
+7) Testing "Mouse button" options with program "Paint".
+8) Testing "Click type" options.
+9) Testing "Click repeat" options.
+10) Testing "Repeat" with ammount of times option.
+11) Testing "Repeat until stopped" option.
+12) Testing "Cursor position" options.
+13) Testing "Current location" option.
+14) Testing "Pick location" option.
+15) Testing "Hotkey setting" options.
+16) Testing "Record & Playback" options and features.
+
+Most of testing was done with the help of "Paint" program to test "AutoClicker" possibilities.
